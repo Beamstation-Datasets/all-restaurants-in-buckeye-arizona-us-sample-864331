@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Market-wide restaurant data for Buckeye in the Southwest. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Buckeye, Arizona, US",
+  "export_job_id": "59941c7e-555d-471d-a0da-3a3d67434e3c",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 864331,
+  "location_name": "Buckeye",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-buckeye-arizona-us-sample-864331",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/864331/beamstation_864331_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_pct": 9.95,
+  "sample_records": 20,
+  "sample_sha256": "fe19cb1aeafa998087421bd96f4fad0c1de23380ff3de0e5436bc31047b001ad",
+  "sample_size_bytes": 81177,
+  "total_records": 201,
+  "updated_at": "2026-05-05T09:53:22.870206+00:00"
+}
