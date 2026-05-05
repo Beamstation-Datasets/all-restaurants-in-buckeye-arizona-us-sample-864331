@@ -1,0 +1,12 @@
+{
+  "export_job_id": "59941c7e-555d-471d-a0da-3a3d67434e3c",
+  "id_short": 864331,
+  "published_at": "2026-05-05T19:16:30Z",
+  "repo_name": "all-restaurants-in-buckeye-arizona-us-sample-864331",
+  "sample_asset_name": "beamstation_864331_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/864331/beamstation_864331_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_records": 20,
+  "sample_sha256": "fe19cb1aeafa998087421bd96f4fad0c1de23380ff3de0e5436bc31047b001ad",
+  "sample_size_bytes": 81177,
+  "total_records": 201
+}
